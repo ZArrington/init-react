@@ -1,0 +1,26 @@
+body{
+    background-color: palevioletred;
+}
+h5{
+    background-color:palevioletred;
+    text-align: center;
+    font-weight:bold;
+}
+h3{
+    background-color:palevioletred;
+    text-align: center;
+}
+p{
+    background-color:palevioletred;
+    text-align: center;
+}
+ul{
+    background-color:palevioletred;
+    text-align: center;
+}
+/* img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:50%;
+} */
